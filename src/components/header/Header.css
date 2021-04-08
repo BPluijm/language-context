@@ -58,5 +58,10 @@ nav a:link {
     color: red;
 }
 
+.language-button {
+    border: 0;
+    background: transparent;
+}
+
 
 
